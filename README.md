@@ -12,6 +12,19 @@
 <p align="center"><a href="https://twitter.com/code_blooded_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/sachinmahesh1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/normal_0ne_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 👨🏽‍💻 I’m currently working on MERN Stack.
+- 🌱 I’m currently learning NodeJs and Continuous Integration(CircleCI); 
+- 👯 I’m looking to collaborate projects realted to MERN Stack🤝;
+- 🤔 I’m looking for help with SEO Optimisation for my Blog [Indian In Ireland](https://www.indianinireland.com/);😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun fact I Produce LoFi Music: [LoFi Indian](https://www.youtube.com/channel/UCnoaT7y3rM-zbIn6NdVxJ_A); 
+
 <p align=center>
   <a href="https://github.com/cyrus303">
     <img src="https://badges.pufler.dev/visits/cyrus303/cyrus303?style=flat-square&color=black&logo=github">
