@@ -1,27 +1,27 @@
 ### Hi there 👋
 
 <p align="center">
- <img  width="800" height="400" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">
+ <img src="https://github.com/cyrus303/cyrus303/blob/main/social/header_.png">
 </p>
-<h2 align="center">Hello there! My name is Yash Sahijwani. 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
+<h2 align="center">Hello there! I am Sachin Mahesh. 👋🤓</h2>
+<p align="center">I'm a data analyst working in Ireland. I have a Master's Degree in Data Analysis and a Bachelor's Degree in Computer Science. I'm passionate about Full Stack development and process which involves data wrangling. Currently working on multiple prototypes using Microsoft Powertools:man_technologist:. Have a through understading on how deep learning works :robot: currently working on a project to club ML with web technologies✨. 
 </p>
 
-<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
+<p align="center">When I'm not hooked to the screen, you can find me watching Netflix, reading a book or putting a track together. Memes are something that are appreciated very much 😂. </p>
 
-<p align="center"><a href="https://twitter.com/terabyte_17"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/yash-sahijwani-b36aa3149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/yash_sahijwani/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<p align="center"><a href="https://twitter.com/code_blooded_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/sachinmahesh1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/normal_0ne_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
 <p align=center>
-  <a href="https://github.com/Terabyte17">
+  <a href="https://github.com/cyrus303">
     <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Terabyte17?tab=repositories">
+  <a href="https://github.com/cyrus303?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
+<a href="https://github.com/cyrus303"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
