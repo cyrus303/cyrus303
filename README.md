@@ -21,7 +21,7 @@
 - 👨🏽‍💻 I’m currently working on MERN Stack.
 - 🌱 I’m currently learning NodeJs and Continuous Integration(CircleCI); 
 - 👯 I’m looking to collaborate projects realted to MERN Stack🤝;
-- 🤔 I’m looking for help with SEO Optimisation for my Blog [Indian In Ireland](https://www.indianinireland.com/);😭;
+- 🤔 I’m looking for help with SEO Optimisation for my Blog: [Indian In Ireland](https://www.indianinireland.com/);😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun fact I Produce LoFi Music: [LoFi Indian](https://www.youtube.com/channel/UCnoaT7y3rM-zbIn6NdVxJ_A); 
 
