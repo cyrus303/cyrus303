@@ -38,7 +38,7 @@
 <!--**Talking about Personal Stuffs:**-->
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/cyrus303/cyrus303/blob/main/social/gitsubheader.svg" />
 
 - 👨🏽‍💻 I’m currently working on MERN Stack.
 - 🌱 I’m currently learning NodeJs and Continuous Integration(CircleCI); 
