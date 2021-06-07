@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
  <img src="https://github.com/cyrus303/cyrus303/blob/main/social/header_.png">
 </p>
