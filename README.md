@@ -2,7 +2,7 @@
  <img src="https://github.com/cyrus303/cyrus303/blob/main/social/header_.png">
 </p>
 <h2 align="center">Hello there! I am Sachin Mahesh. 👋🤓</h2>
-<p align="center">I'm a data analyst working in Ireland. I have a Master's Degree in Data Analysis and a Bachelor's Degree in Computer Science. I'm passionate about Full Stack development and process which involves data wrangling. Currently working on multiple prototypes using Microsoft Powertools:man_technologist:. Have a through understading on how deep learning works :robot: currently working on a project to club ML with web technologies✨. 
+<p align="center">I'm a frontend developer working in Ireland. I have a Master's Degree in Data Analysis and a Bachelor's Degree in Computer Science. I'm passionate about Full Stack development and process which involves data wrangling. Currently working on multiple prototypes using Microsoft Powertools:man_technologist:. Have a through understading on how deep learning works :robot: currently working on a project to club ML with web technologies✨. 
 </p>
 
 <p align="center">When I'm not hooked to the screen, you can find me watching Netflix, reading a book or putting a track together. Memes are something that are appreciated very much 😂. </p>
