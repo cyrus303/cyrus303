@@ -57,7 +57,7 @@
 <a href="https://github.com/cyrus303"><img src="https://img.shields.io/github/followers/cyrus303?style=social"></a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+<img src="https://img.shields.io/badge/React-blue"> <img src="https://img.shields.io/badge/NodeJS-green"> <img src="https://img.shields.io/badge/ExpressJS-grey"> <img src="https://img.shields.io/badge/PossGres-blue"> <img src="https://img.shields.io/badge/MongoDB-green"> <img src="https://img.shields.io/badge/figma-red"> 
 </p>
 
 
