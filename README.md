@@ -39,9 +39,9 @@
 <img width="55%" align="right" alt="Github" src="https://github.com/cyrus303/cyrus303/blob/main/social/gitsubheader.svg" />
 
 - 👨🏽‍💻 I’m currently working on MERN Stack.
-- 🌱 I’m currently learning NodeJs and Continuous Integration(CircleCI); 
+- 🌱 I’m currently learning Serverless Backend and NextJS; 
 - 👯 Always ready to collaborate for Dev Experiments🤝;
-- 🤔 I’m looking for help with SEO Optimisation for my Blog: [Indian In Ireland](https://www.indianinireland.com/);😭;
+- 🤔 I’m looking for help in video editing for my youtube channel (www.youtube.com/@KannadaLofi)
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun fact I Produce LoFi Music: [LoFi Indian](https://www.youtube.com/channel/UCnoaT7y3rM-zbIn6NdVxJ_A); 
 
