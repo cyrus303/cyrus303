@@ -57,7 +57,8 @@
 <a href="https://github.com/cyrus303"><img src="https://img.shields.io/github/followers/cyrus303?style=social"></a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/React-blue"> <img src="https://img.shields.io/badge/NodeJS-green"> <img src="https://img.shields.io/badge/ExpressJS-grey"> <img src="https://img.shields.io/badge/PossGres-blue"> <img src="https://img.shields.io/badge/MongoDB-green"> <img src="https://img.shields.io/badge/figma-red"> 
+ <img src="https://img.shields.io/badge/JavaScript-yellow"><img src="https://img.shields.io/badge/TypeScript-Blue">
+<img src="https://img.shields.io/badge/React-blue"> <img src="https://img.shields.io/badge/NodeJS-green"> <img src="https://img.shields.io/badge/ExpressJS-grey"> <img src="https://img.shields.io/badge/PossGres-blue"> <img src="https://img.shields.io/badge/MongoDB-green"> <img src="https://img.shields.io/badge/Figma-red"> <img src="https://img.shields.io/badge/NextJS-white"> <img src="https://img.shields.io/badge/Azure-blue">
 </p>
 
 
